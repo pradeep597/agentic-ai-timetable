@@ -1,0 +1,13 @@
+streamlit==1.32.0
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.43
+langchain-google-genai==1.0.6
+langchain-openai==0.1.25
+google-api-python-client==2.126.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+python-dotenv==1.0.1
+schedule==1.2.1
+twilio==9.1.0
+pytz==2024.1
